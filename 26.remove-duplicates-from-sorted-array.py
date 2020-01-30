@@ -12,17 +12,12 @@
 #         return len(to_set)
 class Solution:
     def removeDuplicates(self, nums: list) -> int:
-        removed = []
-        for i in nums: 
-            if i not in removed :removed.append(i)
-        print(nums)
-        print(removed)
-        nums = removed
-        print(nums)
-        return len(nums)
+        cursor = 0
+        while cursor < len(nums)-1:
+            if nums[cursor] != nums[cursor+1]: 
+                cursor += 1
+                continue
+            else : nums.pop(cursor)
+            if len(nums) == len(set(nums)):break
+        
 # @lc code=end
-
-
-
-s = Solution()
-print(s.removeDuplicates([1,1,2]))
