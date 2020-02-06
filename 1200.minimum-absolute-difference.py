@@ -2,8 +2,8 @@
 # @lc app=leetcode id=1200 lang=python3
 #
 # [1200] Minimum Absolute Difference
-# Your runtime beats 48.41 % of python3 submissions
-# Your memory usage beats 100 % of python3 submissions (26.9 MB)
+#
+
 # @lc code=start
 class Solution:
     def minimumAbsDifference(self, arr: List[int]) -> List[List[int]]:

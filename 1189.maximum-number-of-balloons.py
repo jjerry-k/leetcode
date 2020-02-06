@@ -2,8 +2,8 @@
 # @lc app=leetcode id=1189 lang=python3
 #
 # [1189] Maximum Number of Balloons
-# Your runtime beats 95.48 % of python3 submissions
-# Your memory usage beats 100 % of python3 submissions (12.6 MB)
+#
+
 # @lc code=start
 class Solution:
     def maxNumberOfBalloons(self, text: str) -> int:
