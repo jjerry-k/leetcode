@@ -2,8 +2,8 @@
 # @lc app=leetcode id=4 lang=python3
 #
 # [4] Median of Two Sorted Arrays
-#
-
+# Your runtime beats 84.03 % of python3 submissions
+# Your memory usage beats 100 % of python3 submissions (12.9 MB)
 # @lc code=start
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
