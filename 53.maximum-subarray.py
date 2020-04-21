@@ -4,7 +4,6 @@
 # [53] Maximum Subarray
 # Your runtime beats 59.4 % of python3 submissions
 # Your memory usage beats 5.69 % of python3 submissions (14.8 MB)
-
 # @lc code=start
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
