@@ -1,9 +1,9 @@
 #
-# @lc app=leetcode id=83 lang=python3
+# @lc app=leetcode id=104 lang=python3
 #
-# [83] Remove Duplicates from Sorted List
-# Your runtime beats 43.45 % of python3 submissions
-# Your memory usage beats 95.45 % of python3 submissions (16.7 MB)
+# [104] Maximum Depth of Binary Tree
+# Your runtime beats 16.6 % of python3 submissions
+# Your memory usage beats 5.21 % of python3 submissions (16.8 MB)
 # @lc code=start
 # Definition for a binary tree node.
 class TreeNode:

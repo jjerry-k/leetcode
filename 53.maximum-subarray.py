@@ -2,7 +2,7 @@
 # @lc app=leetcode id=53 lang=python3
 #
 # [53] Maximum Subarray
-# Your runtime beats 59.4 % of python3 submissions
+# Your runtime beats 93.52 % of python3 submissions
 # Your memory usage beats 5.69 % of python3 submissions (14.8 MB)
 # @lc code=start
 class Solution:
