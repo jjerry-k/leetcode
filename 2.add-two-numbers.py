@@ -2,8 +2,8 @@
 # @lc app=leetcode id=2 lang=python3
 #
 # [2] Add Two Numbers
-# Your runtime beats 74.74 % of python3 submissions
-# Your memory usage beats 100 % of python3 submissions (12.8 MB)
+# Your runtime beats 67.69 % of python3 submissions
+# Your memory usage beats 5.67 % of python3 submissions (13.9 MB)
 # @lc code=start
 # Definition for singly-linked list.
 class ListNode:
