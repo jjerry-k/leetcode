@@ -2,7 +2,7 @@
 # @lc app=leetcode id=541 lang=python3
 #
 # [541] Reverse String II
-# Your runtime beats 6.52 % of python3 submissions
+# Your runtime beats 61.43 % of python3 submissions
 # Your memory usage beats 14.29 % of python3 submissions (13.9 MB)
 # @lc code=start
 class Solution:
