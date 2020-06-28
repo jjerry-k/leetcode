@@ -2,8 +2,8 @@
 # @lc app=leetcode id=160 lang=python3
 #
 # [160] Intersection of Two Linked Lists
-#
-
+# Your runtime beats 79.19 % of python3 submissions
+# Your memory usage beats 74.09 % of python3 submissions (29 MB)
 # @lc code=start
 # Definition for singly-linked list.
 # class ListNode:
