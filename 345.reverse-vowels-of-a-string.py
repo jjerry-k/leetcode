@@ -2,8 +2,8 @@
 # @lc app=leetcode id=345 lang=python3
 #
 # [345] Reverse Vowels of a String
-# Your runtime beats 51.55 % of python3 submissions
-# Your memory usage beats 6.67 % of python3 submissions (14.8 MB)
+# Your runtime beats 45.63 % of python3 submissions
+# Your memory usage beats 74.58 % of python3 submissions (14.7 MB)
 # @lc code=start
 class Solution:
     def reverseVowels(self, s: str) -> str:

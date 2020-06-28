@@ -2,8 +2,8 @@
 # @lc app=leetcode id=283 lang=python3
 #
 # [283] Move Zeroes
-# Your runtime beats 56.05 % of python3 submissions
-# Your memory usage beats 5.97 % of python3 submissions (15 MB)
+# Your runtime beats 98.17 % of python3 submissions
+# Your memory usage beats 91.49 % of python3 submissions (14.9 MB)
 # @lc code=start
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
