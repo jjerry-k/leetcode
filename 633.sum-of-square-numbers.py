@@ -20,4 +20,3 @@ class Solution:
                 right -= 1
         return False
 # @lc code=end
-
