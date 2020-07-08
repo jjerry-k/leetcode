@@ -20,8 +20,8 @@ class Solution:
             v2 = l2.val if l2 else 0
             carry, val = divmod(v1 + v2 + carry, 10)
             tmp.next = ListNode(val)
-            l1 = (l1.next if l1 else None)
-            l2 = (l2.next if l2 else None)
+            l1 = l1.next if l1 else None
+            l2 = l2.next if l2 else None
             tmp = tmp.next
         return output.next
 # @lc code=end
