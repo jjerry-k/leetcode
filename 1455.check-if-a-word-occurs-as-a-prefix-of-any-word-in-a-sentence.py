@@ -7,8 +7,10 @@
 # @lc code=start
 class Solution:
     def isPrefixOfWord(self, sentence: str, searchWord: str) -> int:
+        output = -1
         for idx, word in enumerate(sentence.split(" ")):
             if searchWord in word:
-                return idx+1
-            else: return -1
+                output = idx + 1
+                break
+        return output
 # @lc code=end
