@@ -7,6 +7,6 @@
 # @lc code=start
 class Solution:
     def isHappy(self, n: int) -> bool:
-        tmp = sum([int(elem)**2 for elem in str(n)])
-        return True if tmp == 1 else False if tmp == 4 else self.isHappy(tmp)
+        n = sum([int(elem)**2 for elem in str(n)])
+        return True if n == 1 else False if n == 4 else self.isHappy(n)
 # @lc code=end
