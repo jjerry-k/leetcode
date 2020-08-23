@@ -2,8 +2,8 @@
 # @lc app=leetcode id=350 lang=python3
 #
 # [350] Intersection of Two Arrays II
-# Your runtime beats 9.06 % of python3 submissions
-# Your memory usage beats 17.72 % of python3 submissions (14.1 MB)
+# Your runtime beats 33.1 % of python3 submissions
+# Your memory usage beats 37.53 % of python3 submissions (14 MB)
 # @lc code=start
 class Solution:
     def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
