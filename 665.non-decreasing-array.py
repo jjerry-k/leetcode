@@ -2,8 +2,8 @@
 # @lc app=leetcode id=665 lang=python3
 #
 # [665] Non-decreasing Array
-# Your runtime beats 8.36 % of python3 submissions
-# Your memory usage beats 6.15 % of python3 submissions (15.2 MB)
+# Your runtime beats 60.07 % of python3 submissions
+# Your memory usage beats 67.72 % of python3 submissions (15 MB)
 # @lc code=start
 class Solution:
     def checkPossibility(self, nums: List[int]) -> bool:
