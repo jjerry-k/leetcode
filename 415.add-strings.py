@@ -2,8 +2,8 @@
 # @lc app=leetcode id=415 lang=python3
 #
 # [415] Add Strings
-#
-
+# Your runtime beats 39.02 % of python3 submissions
+# Your memory usage beats 57.05 % of python3 submissions (13.9 MB)
 # @lc code=start
 class Solution:
     def addStrings(self, num1: str, num2: str) -> str:
