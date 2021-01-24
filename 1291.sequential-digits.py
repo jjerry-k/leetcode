@@ -2,8 +2,8 @@
 # @lc app=leetcode id=1291 lang=python3
 #
 # [1291] Sequential Digits
-#
-
+# Your runtime beats 83.95 % of python3 submissions
+# Your memory usage beats 94.14 % of python3 submissions (14 MB)
 # @lc code=start
 class Solution:
     def sequentialDigits(self, low, high):
